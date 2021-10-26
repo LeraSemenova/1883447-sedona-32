@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Валерия Семенова](https://up.htmlacademy.ru/htmlcss/32/user/1883447).
-* Наставник: `Александр Григорьев`(https://htmlacademy.ru/profile/fuckhtml).
+* Наставник: [Александр Григорьев](https://htmlacademy.ru/profile/fuckhtml).
 
 ---
 
